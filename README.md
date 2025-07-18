@@ -4,14 +4,14 @@ Submitted by: **Suldana Abdulkadir Afrah**
 
 **Tumblr** is an app that allows you to post text and photos, as well as view other people's posts.
 
-Time spent: **0.5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App has a configured table view and table view call
-- [ ] App populates the table view with data fetched from an API
+- [X] App has a configured table view and table view call
+- [X] App populates the table view with data fetched from an API
 
 
 The following **optional** features are implemented:
@@ -31,8 +31,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-N/A currently.
-
+This one was a much easier project. I found creating tables and cells way more intuitive, however, I did have some trouble populating the cells with the information from the API. Specifically, populating the images fromt the API. Other than that, I think everything was pretty smooth sailing.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
